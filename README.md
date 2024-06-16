@@ -1,4 +1,4 @@
-<img scr="linkedin.jpeg"/>
+<img scr="linked.jpeg"/>
 
 - 👋 Hola, soy Manuel Baeza
 - 👀 Estoy interesado en Tecnologías Educativa
