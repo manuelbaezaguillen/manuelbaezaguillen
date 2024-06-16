@@ -1,6 +1,6 @@
 <img scr="linked.jpeg"/>
 
-- 👋 Hola, soy Manuel Baeza
+- 👋 Hola, soy Manuel Baeza 
 - 👀 Estoy interesado en Tecnologías Educativa
 - 🌱 Actualmente estoy estudiando sobre metodos efectivos para desarrollo de habilidades en estudiantes
 - 💞️ I’m looking to collaborate on ...
