@@ -1,3 +1,5 @@
+<img scr="linkedin.jpg>
+
 - 👋 Hola, soy Manuel Baeza
 - 👀 Estoy interesado en Tecnologías Educativa
 - 🌱 Actualmente estoy estudiando sobre metodos efectivos para desarrollo de habilidades en estudiantes
